@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="FILE-OPEN">resources/images/open.png</file>
+        <file alias="FILE-SAVE">resources/images/save.png</file>
+        <file alias="SIMPLE-TEXT-EDITOR">resources/images/simpleTextEditor.png</file>
+    </qresource>
+</RCC>
